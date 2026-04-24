@@ -1,0 +1,4 @@
+pip install numpy==1.19.5
+pip install Pillow==9.5.0
+pip install ecdsa==0.18.0
+pip install eciespy==0.3.10
